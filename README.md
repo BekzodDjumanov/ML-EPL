@@ -1,22 +1,22 @@
 # M/L English Premier League Project
 
-## A machine learning project that predicts English Premier League (EPL) match outcomes using historical match data and engineered features such as opponent strength, match timing, and venue
+### A machine learning project that predicts English Premier League (EPL) match outcomes using historical match data and engineered features such as opponent strength, match timing, and venue
 
-## Specific components were trained in order to rank precedence, which eventually determined the algorithms basis of prediction
+### Specific components were trained in order to rank precedence, which eventually determined the algorithms basis of prediction
 
 # 🔍 Key Features
 
-## 🧠 Utilized Beautiful Soup to retrieve and organize data into a formattable document
+### 🧠 Utilized Beautiful Soup to retrieve and organize data into a formattable document
 
-## 📊 Built with Python, Pandas, and scikit-learn in JupyterLab
+### 📊 Built with Python, Pandas, and scikit-learn in JupyterLab
 
-## 🤖 Used a Random Forest Classifier to predict match outcomes
+### 🤖 Used a Random Forest Classifier to predict match outcomes
 
-## 🎯 Achieved 91% precision and 81% accuracy through threshold tuning
+### 🎯 Achieved 91% precision and 81% accuracy through threshold tuning
 
-## ⚙️ Feature engineering included time-based variables and opponent encoding
+### ⚙️ Feature engineering included time-based variables and opponent encoding
 
-## Code
+### Code
 
 Jupyter Notebook that scrapes data
 ```
