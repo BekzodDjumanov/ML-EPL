@@ -16,7 +16,7 @@ Specific components were trained in order to rank precedence, which eventually d
 
 ⚙️ Feature engineering included time-based variables and opponent encoding
 
-## Code and Documents
+## 👑 Code and Documentation
 
 Jupyter Notebook that scrapes data
 ```
@@ -45,7 +45,7 @@ Beautiful Soup
 scikit-learn
 ```
 
-## Reference
+## ⚡️ Reference
 
 ```
 matches.csv
