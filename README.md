@@ -4,6 +4,8 @@ A machine learning project that predicts English Premier League (EPL) match outc
 
 Specific components were trained in order to rank precedence, which eventually determined the algorithms basis of prediction
 
+A transcript CSV is generated that classifies the information within the repo
+
 # 🔍 Key Features
 
 🧠 Utilized Beautiful Soup to retrieve and organize data into a formattable document
